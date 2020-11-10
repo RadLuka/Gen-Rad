@@ -1,7 +1,12 @@
 {
 .appVersion = "1349";
 DisplayStrings = (
+<<<<<<< HEAD
 nm
+=======
+n,
+nnnoonnn
+>>>>>>> 7c956dcebd63241e4c78d6f7bda8aae58be0c396
 );
 date = "2020-11-10 17:32:16 +0000";
 familyName = Test_font;
@@ -564,12 +569,50 @@ unicode = 006E;
 },
 {
 glyphname = o;
+lastChange = "2020-11-10 17:55:42 +0000";
 layers = (
 {
 layerId = "74701DF5-1E5C-48FF-9744-DF92D0E29D6A";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"480 -22 OFFCURVE",
+"589 93 OFFCURVE",
+"589 244 CURVE SMOOTH",
+"589 395 OFFCURVE",
+"480 510 OFFCURVE",
+"319 510 CURVE SMOOTH",
+"160 510 OFFCURVE",
+"50 395 OFFCURVE",
+"50 244 CURVE SMOOTH",
+"50 93 OFFCURVE",
+"160 -22 OFFCURVE",
+"319 -22 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"234 88 OFFCURVE",
+"195 154 OFFCURVE",
+"195 244 CURVE SMOOTH",
+"195 335 OFFCURVE",
+"234 401 OFFCURVE",
+"321 401 CURVE SMOOTH",
+"410 401 OFFCURVE",
+"449 335 OFFCURVE",
+"449 244 CURVE SMOOTH",
+"449 154 OFFCURVE",
+"410 88 OFFCURVE",
+"321 88 CURVE SMOOTH"
+);
 }
 );
+width = 639;
+}
+);
+rightMetricsKey = "=|";
 unicode = 006F;
 },
 {
