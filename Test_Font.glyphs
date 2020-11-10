@@ -5,7 +5,12 @@ DisplayStrings = (
 nm,
 n,
 nnnoonnn,
+<<<<<<< HEAD
 monlid
+=======
+"/space 7c956dcebd63241e4c78d6f7bda8aae58be0c396",
+monooao
+>>>>>>> 65e9a9107f3be59cf9cc558c8b6f018b8e1e9aa3
 );
 date = "2020-11-10 17:32:16 +0000";
 familyName = Test_font;
@@ -281,12 +286,71 @@ unicode = 005A;
 },
 {
 glyphname = a;
+lastChange = "2020-11-10 18:31:23 +0000";
 layers = (
 {
-layerId = "74701DF5-1E5C-48FF-9744-DF92D0E29D6A";
-width = 600;
+background = {
+components = (
+{
+name = n;
+transform = "{1, 0, 0, 1, -41, 0}";
 }
 );
+};
+layerId = "74701DF5-1E5C-48FF-9744-DF92D0E29D6A";
+paths = (
+{
+closed = 1;
+nodes = (
+"543 0 LINE",
+"543 322 LINE SMOOTH",
+"543 453 OFFCURVE",
+"476 509 OFFCURVE",
+"335 509 CURVE SMOOTH",
+"247 509 OFFCURVE",
+"190 495 OFFCURVE",
+"104 458 CURVE",
+"104 340 LINE",
+"198 379 OFFCURVE",
+"249 389 OFFCURVE",
+"323 389 CURVE SMOOTH",
+"390 389 OFFCURVE",
+"411 369 OFFCURVE",
+"411 294 CURVE SMOOTH",
+"411 85 LINE",
+"425 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"431 119 OFFCURVE",
+"341 85 OFFCURVE",
+"283 85 CURVE SMOOTH",
+"231 85 OFFCURVE",
+"210 99 OFFCURVE",
+"210 133 CURVE SMOOTH",
+"210 181 OFFCURVE",
+"265 197 OFFCURVE",
+"457 197 CURVE",
+"457 275 LINE",
+"184 275 OFFCURVE",
+"75 244 OFFCURVE",
+"75 127 CURVE SMOOTH",
+"75 37 OFFCURVE",
+"129 -12 OFFCURVE",
+"244 -12 CURVE SMOOTH",
+"354 -12 OFFCURVE",
+"433 65 OFFCURVE",
+"460 100 CURVE",
+"460 143 LINE"
+);
+}
+);
+width = 633;
+}
+);
+rightMetricsKey = n;
 unicode = 0061;
 },
 {
